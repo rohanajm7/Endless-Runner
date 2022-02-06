@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "EndlessRunner (Debug)",
+			"request": "launch",
+			"preLaunchTask": "EndlessRunner Win64 Debug Build",
+			"program": "D:\\Epic Games\\UEcourse projects\\EndlessRunner\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE427\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "EndlessRunner (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "EndlessRunner Win64 DebugGame Build",
+			"program": "D:\\Epic Games\\UEcourse projects\\EndlessRunner\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE427\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "EndlessRunner (Development)",
+			"request": "launch",
+			"preLaunchTask": "EndlessRunner Win64 Development Build",
+			"program": "D:\\Epic Games\\UEcourse projects\\EndlessRunner\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE427\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "EndlessRunner (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "EndlessRunner Win64 Shipping Build",
+			"program": "D:\\Epic Games\\UEcourse projects\\EndlessRunner\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE427\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "EndlessRunner (Test)",
+			"request": "launch",
+			"preLaunchTask": "EndlessRunner Win64 Test Build",
+			"program": "D:\\Epic Games\\UEcourse projects\\EndlessRunner\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE427\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "EndlessRunnerEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "EndlessRunnerEditor Win64 Debug Build",
+			"program": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"D:\\Epic Games\\UEcourse projects\\EndlessRunner\\EndlessRunner.uproject"
+			],
+			"cwd": "D:\\Epic Games\\UE427\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "EndlessRunnerEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "EndlessRunnerEditor Win64 DebugGame Build",
+			"program": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"D:\\Epic Games\\UEcourse projects\\EndlessRunner\\EndlessRunner.uproject"
+			],
+			"cwd": "D:\\Epic Games\\UE427\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "EndlessRunnerEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "EndlessRunnerEditor Win64 Development Build",
+			"program": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"D:\\Epic Games\\UEcourse projects\\EndlessRunner\\EndlessRunner.uproject"
+			],
+			"cwd": "D:\\Epic Games\\UE427\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=D:\\Epic Games\\UEcourse projects\\EndlessRunner\\EndlessRunner.uproject",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "D:\\Epic Games\\UE427\\UE_4.27"
+		}
+	]
+}

@@ -1,0 +1,57 @@
+[
+	{
+		"file": "D:\\\\Epic Games\\\\UEcourse projects\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunner.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe @\"D:\\Epic Games\\UEcourse projects\\EndlessRunner\\.vscode\\compileCommands_Default\\EndlessRunner.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Epic Games\\\\UEcourse projects\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunner.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe @\"D:\\Epic Games\\UEcourse projects\\EndlessRunner\\.vscode\\compileCommands_Default\\EndlessRunner.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Epic Games\\\\UEcourse projects\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunner.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe @\"D:\\Epic Games\\UEcourse projects\\EndlessRunner\\.vscode\\compileCommands_Default\\EndlessRunner.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Epic Games\\\\UEcourse projects\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunnerCharacter.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe @\"D:\\Epic Games\\UEcourse projects\\EndlessRunner\\.vscode\\compileCommands_Default\\EndlessRunner.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Epic Games\\\\UEcourse projects\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunnerCharacter.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe @\"D:\\Epic Games\\UEcourse projects\\EndlessRunner\\.vscode\\compileCommands_Default\\EndlessRunner.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Epic Games\\\\UEcourse projects\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunnerGameMode.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe @\"D:\\Epic Games\\UEcourse projects\\EndlessRunner\\.vscode\\compileCommands_Default\\EndlessRunner.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Epic Games\\\\UEcourse projects\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunnerGameMode.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe @\"D:\\Epic Games\\UEcourse projects\\EndlessRunner\\.vscode\\compileCommands_Default\\EndlessRunner.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Epic Games\\\\UEcourse projects\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\FloorTile.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe @\"D:\\Epic Games\\UEcourse projects\\EndlessRunner\\.vscode\\compileCommands_Default\\EndlessRunner.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Epic Games\\\\UEcourse projects\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\FloorTile.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe @\"D:\\Epic Games\\UEcourse projects\\EndlessRunner\\.vscode\\compileCommands_Default\\EndlessRunner.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Epic Games\\\\UEcourse projects\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\RunnerCharacter.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe @\"D:\\Epic Games\\UEcourse projects\\EndlessRunner\\.vscode\\compileCommands_Default\\EndlessRunner.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Epic Games\\\\UEcourse projects\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\RunnerCharacter.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.24.28314\\bin\\HostX64\\x64\\cl.exe @\"D:\\Epic Games\\UEcourse projects\\EndlessRunner\\.vscode\\compileCommands_Default\\EndlessRunner.210.rsp\"",
+		"directory": "D:\\Epic Games\\UE427\\UE_4.27\\Engine\\Source"
+	}
+]
